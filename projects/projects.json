@@ -2,6 +2,22 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Fancy Version Of Hacker News: Social News",
+      "thumb": "yaha.me/thumb.png",
+      "desc": "HN a better interface, looks much more fancy ;)!!",
+      "url": "http://yaha.me",
+      "submitter": "lymanlai",
+      "submissionDate": "2013-07-07",
+      "tags": [
+        "News",
+        "Social",
+        "Productivity",
+        "No jQuery",
+        "Production",
+        "BootStrap"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
